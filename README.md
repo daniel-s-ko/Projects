@@ -5,4 +5,5 @@ The number of the classes correspond as follows:
   104A/B - a series in Numerical Analysis
   131 - Data Mining Class
   126 - Regression Analysis
-  
+  <br/>
+  the python projects are different implementations of theory in numerical analysis.
